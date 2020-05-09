@@ -1,6 +1,4 @@
-// Juan Blanco
-// COP3503, Spring 2020
-// ju589373
+// Iggy Blanco
 
 import java.util.*;
 import java.io.*;
