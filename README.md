@@ -11,7 +11,7 @@ One standard notation for the location of a chess piece on an 8x8 board is to gi
 as a single string with no spaces. In this coordinate system, columns are labeled a through h (from left to right),
 and rows to be numbered 1 through 8 (from bottom to top).
 
-Essentially, the columns are given in a base 26 numbering scheme, where digits 1 through 26 are represented
+Essentially, the columns are given in a base 26 numbering scheme, where digits 1 - 26 are represented
 using a through z. However, this counting system is a bit jacked up since there’s no character to represent the
 value zero. 
 
